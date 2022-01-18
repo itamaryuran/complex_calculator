@@ -1,0 +1,15 @@
+read_comp      A ,3            , 5
+read_comp      B , -3          ,   -5
+read_comp      C , 7.7777      ,       5.555
+read_comp      E ,-1        ,     -2
+read_comp F -2,-2
+read_comp D, 2,6
+
+abs_comp B
+abs_comp A
+sub_comp D ,E
+add_comp A ,C
+
+
+
+stop

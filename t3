@@ -1,0 +1,12 @@
+read_comp      A ,3            , 5
+read_comp      B , -3          ,   -5
+read_comp      C , 7.7777      ,       5.555
+read_comp      E ,-1        ,     -2
+
+mult_comp_real A ,3
+mult_comp_img B ,3
+mult_comp_comp A ,b
+mult_comp_real A ,3 
+mult_comp_img D ,3
+
+stop
